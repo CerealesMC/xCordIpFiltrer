@@ -1,5 +1,3 @@
-Certainly! Here's a revised README to explain how the ipset (BadIPs) is used to blacklist IPs associated with MCStorm and other bots, protecting against malicious attacks:
-
 ---
 
 **Français :**
